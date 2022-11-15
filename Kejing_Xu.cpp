@@ -1,3 +1,8 @@
+#include "Kejing.h"
+#include <string>
+#include <vector>
+using namespace std;
+
 int main(){
    string name="Kejing_Xu";
    vector<string> interested;
