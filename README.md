@@ -8,4 +8,4 @@
 Kejing-Xu/Kejing-Xu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, I'm Kejing, a technology enthusiast. Welcome to my GitHub page! For my skills and interests, please take a look at "Kejing-Xu.cpp". Thank you!
+Hi, I'm Kejing, a technology enthusiast. Welcome to my GitHub page! For my skills and interests, please take a look at "Kejing-Xu.cpp". Thank you! #WomanInTech
